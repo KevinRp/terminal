@@ -1,4 +1,4 @@
-baseurl = "https://kevinrp.github.io/terminal"
+baseurl = "https://kevinrp.github.io/terminal/"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 paginate = 5
